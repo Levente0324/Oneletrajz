@@ -1,0 +1,136 @@
+html {
+    background-color:rgba(60, 8, 247, 0.253);
+}
+
+body {
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.head1 {
+    border: 5px solid yellow;
+    padding: 30px;
+    background-image: url('tropical2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.p1 {
+    font-family: "Gentium Book Basic", Georgia, serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.h1 {
+    color: yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 120px;
+    text-transform: uppercase;
+    text-align: center;
+    -webkit-text-stroke: 2px black;
+}
+
+li {
+    display: inline-block;
+    margin: 5px;
+}
+
+a {
+    font-weight: bold;
+    font-size: 22px;
+    color: yellow;
+    text-align: center;
+}
+
+.kep {
+    margin-left: 70px;
+    margin-top: 80px;
+    float: left;
+}
+
+.en {
+    width: 350px;
+    border-radius: 50%;
+    border: 6px solid yellow;
+}
+
+.p2 {
+    font-weight: bold;
+    color: yellow;
+    font-size: 25px;
+    text-align: center;
+}
+
+a {
+    font-weight: bold;
+    color: yellow;
+    font-size: 25px;
+    text-align: center;
+}
+
+.div2 {
+    text-align: center;
+    width: 1870px;
+    height: 150px;
+    background-image: url('tropical5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: 5px solid yellow;
+    float: right;
+}
+
+.div1 {
+    padding: 10px;
+    text-align: center;
+    width: 700px;
+    margin-left: 30px;
+    height: 300px;
+    margin-top: 100px;
+    float: left;
+}
+
+.h2 {
+    margin-left: 30px;
+    padding: 15px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: yellow;
+    -webkit-text-stroke: 1.9px black;
+}
+
+.p3 {
+    text-align: center;
+    font-size: 21px;
+}
+
+.div3 {
+    width: 600px;
+    margin-top: 50px;
+    text-align: left; 
+    height: 500px;
+    float: right;
+}
+
+td {
+    padding: 18px;
+    width: 240px;
+}
+
+.bal {
+    color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-thickness: 4px;
+}
+
+.jobb {
+    color: black;
+    font-size: 25px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: yellow;
+    text-decoration-thickness: 5px;
+}
